@@ -1,2 +1,4 @@
-# GSOC-2025
- My GSoC contributions and projects.
+# GSoC Contributions  
+
+This repository will contain my **Google Summer of Code (GSoC)** contributions and projects. 🚀  
+
